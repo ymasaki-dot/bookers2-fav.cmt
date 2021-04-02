@@ -1,5 +1,5 @@
 # README
-Bookers2（課題アプリケーション)のデバック学習
+Bookers2（課題アプリケーション)いいね機能、コメント機能実装
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
